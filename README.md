@@ -52,6 +52,15 @@ What can we do if we are suffering from High Variance: (Over Fitting)(happens fr
 a. Do Regularization
 
 Regularization:
+1) L1 regularization 
+2) L2 regularization (Frequently Used)
+Can we use both L1 and L2- what is elastic net
+what is euclodian norm in regularization?
+3) drop out
+
+
+
+
 
 
 
